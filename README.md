@@ -1,4 +1,4 @@
-# blxstealer
+# blxstealer all fud best stealer
 Most powerful stealer but doesn't contain a dual hook and is safe to use.
   <div align="center">
   <div>
